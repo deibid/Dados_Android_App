@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_player_background_enabled">@color/background_floating_material_dark</color>
+    <color name="color_player_background_not_enabled">#50ffffff</color>
+
+</resources>
